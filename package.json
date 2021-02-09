@@ -1,0 +1,22 @@
+{
+  "name": "miwifi",
+  "main": "index.js",
+  "version": "1.0.1",
+  "license": "MIT",
+  "bin": {
+    "miwifi": "bin/miwifi.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "cli-table": "^0.3.4",
+    "configstore": "^5.0.1",
+    "cryptojs": "^2.5.3",
+    "delay": "^5.0.0",
+    "inquirer": "^7.3.3",
+    "ora": "^5.3.0",
+    "pretty-bytes": "^5.5.0",
+    "pretty-ms": "^7.0.1",
+    "yargs": "^16.2.0"
+  }
+}
