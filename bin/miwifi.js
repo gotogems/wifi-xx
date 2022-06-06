@@ -4,5 +4,4 @@ require('yargs')
   .commandDir('../lib/commands')
   .detectLocale(false)
   .demandCommand()
-  .help()
-  .argv
+  .help().argv

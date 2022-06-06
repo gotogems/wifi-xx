@@ -1,5 +1,5 @@
 {
-  "name": "@statstic/wifi-xx",
+  "name": "wifi-xx",
   "version": "1.0.1",
   "license": "MIT",
   "bin": {
@@ -17,5 +17,8 @@
     "pretty-bytes": "^5.6.0",
     "pretty-ms": "^7.0.1",
     "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
   }
 }
